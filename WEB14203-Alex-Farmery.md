@@ -46,7 +46,7 @@ Javascript looping presentation [here](https://drive.google.com/file/d/0B2blpB6l
  - Week 4: [peer learning](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-4-peer-learning/) 
 Ajax presentation [here](https://docs.google.com/presentation/d/177y06tCWK7Rs6hyKRdt-2hFhLVimbEsDdwPU2nDZHTY/edit?usp=sharing)
  - Week 5: [Formative assessment](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-5-formative/)
-Formative presentation [here]((https://docs.google.com/presentation/d/11LuClOlU3TYS1TNuWcQA5-PFfCG15WW26xOrEmkeSCo/edit#slide=id.ge665ab5ad_2_29))
+Formative presentation [here](https://docs.google.com/presentation/d/11LuClOlU3TYS1TNuWcQA5-PFfCG15WW26xOrEmkeSCo/edit#slide=id.ge665ab5ad_2_29)
  - Week 8: [Team work](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-8-team-work/)
  - Week 9: [Sumative Filter Bubbles](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-9-summative/)
 Sumative Presentation [here](https://drive.google.com/a/students.rave.ac.uk/file/d/0B1oDFGR8btFeNUJHazJOYVd5OWM/view?usp=sharing)
