@@ -39,15 +39,15 @@ We also thought a report based system would be useful in future where businesses
 
 *The Blog posts for this unit are listed below:*
 
-Week 1: [Filter Bubbles concept](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-1-filter-bubbles-concept/)
-Week 2: [Peer learning](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-2-peer-learning/) 
+ - Week 1: [Filter Bubbles concept](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-1-filter-bubbles-concept/)
+ - Week 2: [Peer learning](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-2-peer-learning/) 
 Javascript looping presentation [here](https://drive.google.com/file/d/0B2blpB6lT14sSnVIVGxWTklXSUU/view?usp=sharing)
-Week 3: [Filter Bubbles experiments](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-3-filter-bubbles-experiments/)
-Week 4: [peer learning]() 
+ - Week 3: [Filter Bubbles experiments](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-3-filter-bubbles-experiments/)
+ - Week 4: [peer learning]() 
 Ajax presentation [here](https://docs.google.com/presentation/d/177y06tCWK7Rs6hyKRdt-2hFhLVimbEsDdwPU2nDZHTY/edit?usp=sharing)
-Week 5: [Formative assessment]()
-Week 8: [Team work]()
-Week 9: [Filter Bubbles]()
+ - Week 5: [Formative assessment]()
+ - Week 8: [Team work]()
+ - Week 9: [Filter Bubbles]()
 
 
 ##Inspiration links
