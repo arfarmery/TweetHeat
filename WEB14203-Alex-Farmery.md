@@ -28,7 +28,7 @@ High activity locations - businesses would be interested in insight into where t
 Overall we beleive that TweetHeat would offer valuble insight for businesses attempting to re-vamp, re-gain control of and have a better impact online. 
 
 
-*The aims of TweetHeat*
+**The aims of TweetHeat**
 
 - Create insight into a social media marketing campaign and it's direct affect on the public
 - Create high visual representation of a businesses tweets - allows for better understanding and can lead to pivots within the business if a better technique, timing, content is established. 
@@ -43,11 +43,11 @@ We also thought a report based system would be useful in future where businesses
  - Week 2: [Peer learning](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-2-peer-learning/) 
 Javascript looping presentation [here](https://drive.google.com/file/d/0B2blpB6lT14sSnVIVGxWTklXSUU/view?usp=sharing)
  - Week 3: [Filter Bubbles experiments](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-3-filter-bubbles-experiments/)
- - Week 4: [peer learning]() 
+ - Week 4: [peer learning](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-4-peer-learning/) 
 Ajax presentation [here](https://docs.google.com/presentation/d/177y06tCWK7Rs6hyKRdt-2hFhLVimbEsDdwPU2nDZHTY/edit?usp=sharing)
- - Week 5: [Formative assessment]()
- - Week 8: [Team work]()
- - Week 9: [Filter Bubbles]()
+ - Week 5: [Formative assessment](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-5-formative/)
+ - Week 8: [Team work](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-8-team-work/)
+ - Week 9: [Sumative Filter Bubbles](http://www.fourthfloor.me/blogs/afarmery/2015/12/03/week-9-summative/)
 
 
 ##Inspiration links
