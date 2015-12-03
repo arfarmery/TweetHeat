@@ -71,12 +71,12 @@ In the end after pulling most of my hair out the 'app' would still not run. We t
 The code did NOT work in the end and we probably deserve this since we tried to copy another humans project. I did however manage to locally host the code, play with the css - however the javascript search queries did not succesfully work out. oh well - have to learn someway
 
 
-##### Summative Presentation
+#### Formative Presentation
 
 Digital wireframes visible in formative presentation and available [here](https://docs.google.com/presentation/d/11LuClOlU3TYS1TNuWcQA5-PFfCG15WW26xOrEmkeSCo/edit#slide=id.ge665ab5ad_2_29)
 
 
-### Formative Presentation
+### Summative Presentation
 
 Presentation was done in keynote. Attempt at anaylizing our market, entry into the market, what businesses would use Tweetheat and explanation of how it should supposedly function
 Formative Presentation [here](https://www.icloud.com/keynote/0003QPnMDc-Q0b3GjQrafwGiQ#tweetheat)
